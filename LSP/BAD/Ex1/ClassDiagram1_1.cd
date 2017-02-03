@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LSP.BAD.Duck" Collapsed="true">
+    <Position X="3.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBAAAAAA=</HashCode>
+      <FileName>BAD\Ducks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LSP.BAD.ElectricDuck" Collapsed="true">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAABAAA=</HashCode>
+      <FileName>BAD\ElectricDuck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="LSP.BAD.DuckState" Collapsed="true">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>BAD\Ducks.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
